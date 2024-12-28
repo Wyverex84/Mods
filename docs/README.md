@@ -52,11 +52,4 @@ schaut mal bei ihnen vorbei.
 
 - **[GIMI ini Extension](https://github.com/lewis252310/GIMI_ini_Extension) von [lewis252310](https://github.com/lewis252310/)**
 
-### Programme die wir zum programieren Benutzt haben
-
-- Blender [Website](https://www.blender.org/)
-
-- Paint.Net [Website](https://getpaint.net/)
-
-- Paint.net Alpha Plugin [Website](https://shorturl.at/ncd8O)
 <!--https://forums.getpaint.net/topic/131310-quick-alpha-toolkit-v11-updated-19-nov-2024/#comment-638059-->
