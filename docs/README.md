@@ -1,4 +1,4 @@
-# GI-mods
+# Mods für ein Bestimmtes "Anime Game"
 
 <!-- Beschreibung -->
 
